@@ -1,0 +1,2 @@
+main_menu=(1,5,"\nMAIN MENU\n1. List tasks (all/pending/complete).\n2. Add a task.\n3. Delete a task.\n4. Complete a task.\n5. Exit.")
+list_task=(1,4,"\nMAIN MENU > LIST TASKS\n1. List all tasks.\n2. List pending tasks.\n3. List complete tasks.\n4. Go to previous menu.")
